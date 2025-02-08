@@ -10,10 +10,6 @@ Online voting systems allow users to cast their votes remotely, eliminating the 
 
 Furthermore, online voting systems can enhance the overall efficiency and accuracy of the voting process. They can automate tasks such as voter registration, ballot distribution, and vote counting, reducing the likelihood of errors and ensuring a more transparent and reliable election.
 
-Online voting systems also offer increased security measures to protect the integrity of the voting process. Encryption techniques and authentication mechanisms can be implemented to safeguard against fraud and unauthorized access.
-
-Overall, online voting systems play a vital role in promoting inclusivity, efficiency, and transparency in democratic processes. They empower citizens to exercise their right to vote conveniently and securely, contributing to a more participatory and democratic society.
-
 ## Features
 
 - User registration and authentication
@@ -53,22 +49,29 @@ DOWNLOAD "Online Voting Management System Project"
 
 9. Use the Following Credential to log into the Admin Session
    
-   `username:  mohan`
+   `username:  rohit`
    
-   `password:  mohan.sjbit`
+   `password:  12345`
 
 ## Usage
 
-- Visit `http://localhost/online-vote/admin/` in your browser to access the admin login.
-- Login to admin dashboard using credentials 'mohan' and 'mohan.sjbit'.
+- Visit `http://localhost/online-voting-system-DBMS-Project/admin/` in your browser to access the admin login.
+- Login to admin dashboard using credentials 'rohit' and '12345'.
 - Add, Delete or Update existing voters and candidates.
-- Once admin things are done sign-out and goto `http://localhost/online-vote/` to access the voting system.
+- Once admin things are done sign-out and goto `http://localhost/online-voting-system-DBMS-Project/` to access the voting system.
 - Cast the vote and submit.
 
 ## Screenshot
-Voting Interface![Voting Interface](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project/blob/main/Screenshot_Images/Opera%20Snapshot_2024-03-03_200245_localhost.png?raw=true)
-Admin Dashboard![Admin Dashboard](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project/blob/main/Screenshot_Images/Screenshot%202024-03-03%20173257.png?raw=true)
-Database Snapshot![Database Snapshot](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project/blob/main/Screenshot_Images/Screenshot%202024-03-03%20201439.png)
+Voting Interface![Voting Interface]
+![image](https://github.com/user-attachments/assets/606328ed-b68c-4bb6-bd2b-84d01c055359)
+![image](https://github.com/user-attachments/assets/491dfdb1-aba0-4cba-99a2-abad47fcddec)
+
+Admin Dashboard![Admin Dashboard]
+![image](https://github.com/user-attachments/assets/c71b03f7-f524-486f-8950-04e17fde47db)
+
+Database Snapshot![Database Snapshot]
+![image](https://github.com/user-attachments/assets/8269939e-5b5a-4c59-8890-421bfa6498da)
+
 
 ## License
 
