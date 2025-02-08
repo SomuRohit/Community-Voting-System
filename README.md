@@ -63,7 +63,6 @@ DOWNLOAD "Online Voting Management System Project"
 
 ## Screenshot
 Voting Interface![Voting Interface]
-![image](https://github.com/user-attachments/assets/606328ed-b68c-4bb6-bd2b-84d01c055359)
 ![image](https://github.com/user-attachments/assets/491dfdb1-aba0-4cba-99a2-abad47fcddec)
 
 Admin Dashboard![Admin Dashboard]
@@ -77,10 +76,4 @@ Database Snapshot![Database Snapshot]
 
 This project is licensed under the [APACHE 2.0 License](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project?tab=Apache-2.0-1-ov-file).
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request. Also to keep my work supported I'm even open for sponsoring :D
-
-## Contact
-
-For any questions or suggestions, please contact via [MAIL](mailto:mohangowda.mgt@gmail.com) or catchup with me anywhere on [BIO LINK](https://mohangowdat.bio.link/).
